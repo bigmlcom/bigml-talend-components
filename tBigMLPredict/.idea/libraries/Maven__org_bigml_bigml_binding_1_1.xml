@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: org.bigml:bigml-binding:1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/bigml/bigml-binding/1.1/bigml-binding-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/bigml/bigml-binding/1.1/bigml-binding-1.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/bigml/bigml-binding/1.1/bigml-binding-1.1-sources.jar!/" />
+      <root url="file:///var/folders/vg/6fbmw2313t57wwjk8h3wfy_00000gn/T/intellijad" />
+      <root url="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

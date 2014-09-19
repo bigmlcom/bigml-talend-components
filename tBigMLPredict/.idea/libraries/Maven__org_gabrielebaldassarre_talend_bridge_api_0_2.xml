@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Maven: org.gabrielebaldassarre:talend-bridge-api:0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/gabrielebaldassarre/talend-bridge-api/0.2/talend-bridge-api-0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.m2/repository/org/gabrielebaldassarre/talend-bridge-api/0.2/talend-bridge-api-0.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/org/gabrielebaldassarre/talend-bridge-api/0.2/talend-bridge-api-0.2-sources.jar!/" />
+      <root url="file:///var/folders/vg/6fbmw2313t57wwjk8h3wfy_00000gn/T/intellijad" />
+    </SOURCES>
+  </library>
+</component>

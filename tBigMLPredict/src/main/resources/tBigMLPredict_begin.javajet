@@ -1,0 +1,65 @@
+<%@ jet 
+	imports="
+		org.talend.core.model.process.INode 
+		org.talend.core.model.process.ElementParameterParser 
+		org.talend.core.model.metadata.IMetadataTable 
+		org.talend.core.model.metadata.IMetadataColumn 
+		org.talend.core.model.process.IConnection
+		org.talend.core.model.process.IConnectionCategory
+		org.talend.designer.codegen.config.CodeGeneratorArgument
+		org.talend.core.model.metadata.types.JavaTypesManager
+		org.talend.core.model.metadata.types.JavaType
+		java.util.List 
+    	java.util.Map
+	" 
+%>
+<% 
+    CodeGeneratorArgument codeGenArgument = (CodeGeneratorArgument) argument;
+    INode node = (INode)codeGenArgument.getArgument();
+    String cid = node.getUniqueName();
+
+    // Parameters
+    String user = ElementParameterParser.getValue(node,"__BIGML_USER__");
+    String apikey = ElementParameterParser.getValue(node,"__BIGML_APIKEY__");
+    boolean devMode = ("true").equals(ElementParameterParser.getValue(node, "__BIGML_DEVMODE__"));
+    boolean resolveFieldByName = ("true").equals(ElementParameterParser.getValue(node, "__RESOLUTION_BY_NAME__"));
+    boolean predictWithConfidence = ("true").equals(ElementParameterParser.getValue(node, "__WITH_CONFIDENCE__"));
+    boolean remotePrediction = ("true").equals(ElementParameterParser.getValue(node, "__REMOTE_PREDICTION__"));
+    String modelId = ElementParameterParser.getValue(node,"__MODEL_ID__");
+    String ensembleId = ElementParameterParser.getValue(node,"__ENSEMBLE_ID__");
+%>
+
+int nb_line_<%=cid%>=0;
+
+org.bigml.talend.predict.BigMLPredictor predictor_<%=cid%> = new org.bigml.talend.predict.BigMLPredictor();
+predictor_<%=cid%>.setUser("<%=user%>");
+predictor_<%=cid%>.setApiKey("<%=apikey%>");
+predictor_<%=cid%>.setDevMode(<%=devMode%>);
+predictor_<%=cid%>.setModelId("<%=modelId%>");
+predictor_<%=cid%>.setEnsembleId("<%=ensembleId%>");
+predictor_<%=cid%>.setResolveFieldsByName(<%=resolveFieldByName%>);
+predictor_<%=cid%>.setPredictWithConfidence(<%=predictWithConfidence%>);
+predictor_<%=cid%>.setRemotePrediction(<%=remotePrediction%>);
+
+// This call will prepare the BigML client and will check the connection credentials
+predictor_<%=cid%>.initialize();
+
+<%
+    IMetadataTable preMetadata = null;
+    if ((node.getIncomingConnections()!=null)&&(node.getIncomingConnections().size()>0))
+        preMetadata = node.getIncomingConnections().get(0).getMetadataTable();
+
+    String predictColumnName = ElementParameterParser.getValue(node,"__PREDICT_COL__");
+
+    List<IMetadataColumn> columns = preMetadata.getListColumns();
+    for (int i = 0; i < columns.size(); i++)
+    {
+        IMetadataColumn column = columns.get(i);
+        if( column.getLabel().equalsIgnoreCase(predictColumnName) ) {
+%>
+predictor_<%=cid%>.setPredictionColumnTypeId("<%=column.getTalendType()%>");
+<%
+            break;
+        }
+    }
+%>

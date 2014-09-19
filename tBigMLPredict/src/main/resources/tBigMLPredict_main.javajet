@@ -1,0 +1,52 @@
+<%@ jet
+        imports="
+		org.talend.core.model.process.INode 
+		org.talend.core.model.process.ElementParameterParser 
+		org.talend.core.model.metadata.IMetadataTable 
+		org.talend.core.model.metadata.IMetadataColumn 
+		org.talend.core.model.process.IConnection
+		org.talend.core.model.process.IConnectionCategory
+		org.talend.designer.codegen.config.CodeGeneratorArgument
+		org.talend.core.model.metadata.types.JavaTypesManager
+		org.talend.core.model.metadata.types.JavaType
+		java.util.List 
+    	java.util.Map		
+	"
+        %>
+<%
+    CodeGeneratorArgument codeGenArgument = (CodeGeneratorArgument) argument;
+    INode node = (INode)codeGenArgument.getArgument();
+    String cid = node.getUniqueName();
+
+    IMetadataTable preMetadata = null;
+    if ((node.getIncomingConnections()!=null)&&(node.getIncomingConnections().size()>0))
+        preMetadata = node.getIncomingConnections().get(0).getMetadataTable();
+    String inRowName = node.getIncomingConnections().get(0).getName();
+%>
+java.util.Map<String, Object> inputs_<%=cid %> = new java.util.HashMap<String, Object>();
+<%
+    String predictColumnName = ElementParameterParser.getValue(node,"__PREDICT_COL__");
+    String predictColumnToCast = "java.lang.String";
+
+    String confidenceColumnName = ElementParameterParser.getValue(node,"__CONFIDENCE_COL__");
+
+    List<IMetadataColumn> columns = preMetadata.getListColumns();
+    for (int i = 0; i < columns.size(); i++)
+    {
+        IMetadataColumn column = columns.get(i);
+        if( column.getLabel().equalsIgnoreCase(predictColumnName) ) {
+            predictColumnToCast = JavaTypesManager.getTypeToGenerate(column.getTalendType(),column.isNullable());
+        }
+
+        String columnLabel = column.getLabel().startsWith("f0") ? column.getLabel().substring(1,column.getLabel().length()) : column.getLabel();
+%>
+inputs_<%=cid %>.put("<%= columnLabel %>", <%=inRowName %>.<%=column.getLabel() %>);
+<%
+    }
+%>
+
+predictor_<%=cid%>.predict(inputs_<%=cid %>);
+<%=inRowName %>.<%=predictColumnName%> = (<%=predictColumnToCast%>) predictor_<%=cid%>.getPrediction();
+<%=inRowName %>.<%=confidenceColumnName%> = predictor_<%=cid%>.getPredictionConfidence();
+
+nb_line_<%=cid %>++;
