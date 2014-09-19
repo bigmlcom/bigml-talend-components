@@ -5,6 +5,8 @@ In this project you find a Talend Open Studio component that you can use to make
 
 You can use it to easily make, once installed in TOS, remote and local predictions using predictive models defined in [BigML.com](https://bigml.com)
 
+## TOS-Configuration
+
 These are the configuration parameters you could use to define the behaviour of the component once the component is installed in TOS:
 
 ![tBigMLPredict configuration window](docs/tBigMLPredict_config_window.png)
