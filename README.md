@@ -18,7 +18,7 @@ Each component has its own directory and its own maven project.
 
 For now, the available componentes are:
 
-* **tBigMLPredict**: allows real-time predictions. You can send your input fields and get in return the prediction and its confidence degree.
+* [**tBigMLPredict**](tBigMLPredict/README.md): allows real-time predictions. You can send your input fields and get in return the prediction and its confidence degree.
 
 ## Why Talend Open Studio?
 
