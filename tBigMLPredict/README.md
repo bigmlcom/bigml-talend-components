@@ -1,33 +1,27 @@
 tBigMLPredict
 =============
 
-In this repository you'll find a Talend Open Studio component to be used to call the predictions service at BigML.com
+In this project you find a Talend Open Studio component that you can use to make calls to the [predictions service of BigML.io](https://bigml.com/developers/predictions).
 
-You can use it to easily make, in TOS, remote and local predictions using predictive models defined in BigML.
+You can use it to easily make, once installed in TOS, remote and local predictions using predictive models defined in [BigML.com](https://bigml.com)
 
-These are the configuration parameters you could use in TOS to define the behaviour of the component:
+These are the configuration parameters you could use to define the behaviour of the component once the component is installed in TOS:
 
-* The **schema** we are going to use to send the input fields of the prediction and save the predicted values
-* The **User** and **Api KEY** used to connect to the service
-* The **Model Id** or **Ensemble Id** on the server that we will use to make predictions
-* If we are doing requests in **Developer Mode** or not
+![tBigMLPredict configuration window](docs/tBigMLPredict_config_window.png)
+
+* The **Schema** we are going to use to send the input fields of the prediction and save the prediction response
+* The **User** and **Api KEY** used to connect to the BigML.io account
+* The **Model Id** or **Ensemble Id** on the server that will be used to make predictions
+* If we are doing requests in **Developer Mode?** or not
 * If we want to do local or **Server predictions (remote)**
 * If we want to **Resolve fields by name** or code (ie. "Is Potential Buyer" or "1000b2")
 * If we want to **Predict with confidence** or not
-* The column of the schema where we want to leave the prediction
-* The column of the schema where we want to leave the confidence of the prediction
-
-## Why to use BigML in TOS
-
-This approach of integrating "Machine Learning" operations on your projects using ETL Tools is really important if you are an integrator or consultancy firm. You don’t have to learn new tools or complex RESTFul API’s to do such job, you only need to drop a component in the canvas and connect it with the others for the magic to happen.
-
-Talend Open Studio provides an extensible, highly-performant, open source set of tools to access, transform and integrate data from any business system in real time or batch to meet both operational and analytical data integration needs
-
-The broad range of use cases addressed include: massive scale integration (big data/ NoSQL), ETL for business intelligence and data warehousing, data synchronization, data migration, data sharing, data services, and now predictions!!!
+* The column of the schema where we want to save the predicted value
+* The column of the schema where we want to save the confidence of the prediction
 
 ## Support
 
-Please, report problems and bugs to [BigML.io-Java issue tracker](https://github.com/javinp/bigml-java/issues)
+Please, report problems and bugs to [BigML.io-TOS issue tracker](https://github.com/javinp/bigml-talend-components/issues)
 
 Discussions about the different bindings take place in the general [BigML mailing list](http://groups.google.com/group/bigml). Or join us in [Campfire chatroom](https://bigmlinc.campfirenow.com/f20a0)
 
@@ -48,7 +42,6 @@ If you want to specify a different custom component location, issue the command:
 If you want to package the component in the basedire but **not** deploy it in custom component folder, issue the command:
 
     mvn clean package
-
 
 ## Command-line parameters
 You can set some parameters in command-line using the -D flag. Here's a list:
