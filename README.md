@@ -33,6 +33,6 @@ Talend's customer base for this product portfolio is estimated at more than 3,30
 Please, report problems and bugs to 
 [BigML.io-TOS issue tracker](https://github.com/bigmlcom/bigml-talend-components/issues)
 
-Discussions about the different bindings take place in the general
-[BigML mailing list](http://groups.google.com/group/bigml). Or join us
-in [Campfire chatroom](https://bigmlinc.campfirenow.com/f20a0)
+You can send us an email at [BigML email support](mailto://support.bigml.com)
+
+You can join us in [Campfire chatroom](https://bigmlinc.campfirenow.com/f20a0)
