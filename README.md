@@ -1,9 +1,9 @@
 bigml-talend-components
 =======================
 
-BigML Components for [Talend Open Studio](https://www.talend.com/products/talend-open-studio).
+BigML Components for [Talend Open Studio](https://www.talend.com/products/talend-open-studio) (TOS).
 
-The aim of this project is to give to integrators and consulting companies a bunch of BigML components ready to be used inside Talend Open Studio. 
+The aim of this project is to give to integrators and consulting companies a bunch of BigML components ready to be used inside TOS. 
 
 These components are licensed under the
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
@@ -12,7 +12,7 @@ These components are licensed under the
 
 BigML.io is a REST-style API for creating and managing BigML resources programmatically. Using BigML.io you can create, retrieve, update and delete Sources, Datasets, Models, Ensembles, Clusters, Predictions, Centroids, Batch Predictions, Batch Centroids, and Evaluations using standard HTTP methods. 
 
-In this repository you'll find all the Talend Open Studio (TOS) components that you can use in your job designs to interact with all the BigML.io services - The BigML API.
+In this repository you'll find all the TOS components that you can use in your job designs to interact with all the BigML.io services - The BigML API.
 
 Each component has its own directory and its own maven project. 
 
