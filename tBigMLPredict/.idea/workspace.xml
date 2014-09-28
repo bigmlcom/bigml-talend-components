@@ -4,7 +4,7 @@
     <list default="true" id="155af11e-f878-4525-863c-d16be3012992" name="Default" comment="" />
     <ignored path="tBigMLPredict.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409574433552" ignored="false" />
+    <file path="/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412183644200" ignored="false" />
     <file path="$PROJECT_DIR$/../../talend-components-collection-master/tJiraProjects/src/main/resources/tJiraProjects_java.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409500300249" ignored="false" />
     <file path="$PROJECT_DIR$/../../talend-components-collection-master/tJiraProjects/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409502934111" ignored="false" />
     <file path="/tBigMLPredict_java.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1410900833533" ignored="false" />
@@ -49,7 +49,7 @@
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/misc.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/compiler.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411080959011" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/workspace.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411083070811" ignored="false" />
-    <file path="/Dummy.txt" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411080924872" ignored="false" />
+    <file path="/Dummy.txt" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412034207550" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__info_cukes_cucumber_java_1_0_14.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__net_sf_supercsv_super_csv_2_1_0.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
@@ -72,7 +72,7 @@
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_3.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411080958658" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_springframework_spring_beans_3_1_2_RELEASE.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989653" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/dictionaries/xalperte.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082889029" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082922595" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412176702635" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__info_cukes_cucumber_core_1_0_14.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_james_apache_mime4j_0_6.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
@@ -81,7 +81,7 @@
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989261" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409534782271" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409593502878" ignored="false" />
-    <file path="/fragment.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1410908899289" ignored="false" />
+    <file path="/fragment.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412175365466" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_supercsv_super_csv_2_1_0.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409543653522" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_4.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409569645754" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409593502878" ignored="false" />
@@ -89,34 +89,34 @@
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409547371059" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_jdk14_1_6_4.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409547911587" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409593502878" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/BigMLClient.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409575831700" ignored="false" />
-    <file path="/BigMLClient.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409742928765" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/LocalEnsemble.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409569164960" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/MultiModel.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409569139636" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/LocalPredictiveModel.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409570608928" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/BigMLClient.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="/BigMLClient.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412165227103" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/LocalEnsemble.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/MultiModel.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/LocalPredictiveModel.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
     <file path="/LocalPredictiveModel.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409570608928" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/localmodel/Tree.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409569260695" ignored="false" />
-    <file path="/a.dummy" changelist="155af11e-f878-4525-863c-d16be3012992" time="1410003332157" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Model.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582307670" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/localmodel/Tree.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="/a.dummy" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412023717513" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Model.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
     <file path="/Model.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409576148047" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/AbstractResource.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582305443" ignored="false" />
-    <file path="/AbstractResource.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409742822608" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/AbstractResource.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="/AbstractResource.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412023313721" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/bigml-binding.iml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582528688" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_3.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_0_3.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989261" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_1.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582497408" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582497408" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582497408" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Prediction.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582305443" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/BatchPrediction.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582305443" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Source.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582305443" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Ensemble.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582305443" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/BatchCentroid.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582305443" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Cluster.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582305443" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Prediction.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412175438397" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/BatchPrediction.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Source.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Ensemble.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/BatchCentroid.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Cluster.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/utils/MockSSLSocketFactory.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411083062339" ignored="false" />
     <file path="/MockSSLSocketFactory.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582742642" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/utils/Utils.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411083054620" ignored="false" />
-    <file path="/Utils.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409582857330" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/utils/Utils.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412175008994" ignored="false" />
+    <file path="/Utils.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412174784441" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java-original/.idea/scopes/scope_settings.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409583535874" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java-original/.idea/rebel_project.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409583535874" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java-original/.idea/vcs.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409583653773" ignored="false" />
@@ -164,7 +164,7 @@
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_2_RELEASE.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409593502878" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_2_RELEASE.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409593502878" ignored="false" />
     <file path="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409593502878" ignored="false" />
-    <file path="/Prediction.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409714334040" ignored="false" />
+    <file path="/Prediction.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412175428018" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java-original/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_0_3.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409721115100" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java-original/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_3.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409721115120" ignored="false" />
     <file path="$USER_HOME$/.m2/repository/org/bigml/bigml-binding/1.1/bigml-binding-1.1.jar!/META-INF/maven/org.bigml/bigml-binding/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409721140673" ignored="false" />
@@ -180,7 +180,76 @@
     <file path="$PROJECT_DIR$/../../../internal/functionalmodules/dyndatasets/model/src/main/resources/com/rudder/dyndatasets/model/actuate/iobTemplate.ftl" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409998558519" ignored="false" />
     <file path="/iobTemplate.ftl" changelist="155af11e-f878-4525-863c-d16be3012992" time="1409998558519" ignored="false" />
     <file path="$MAVEN_REPOSITORY$/com/rudder/internal/functionalmodules/dyndatasets/dyndatasets-model/1.0.1-SNAPSHOT/dyndatasets-model-1.0.1-SNAPSHOT.jar!/META-INF/faces-config.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1410003302611" ignored="false" />
-    <file path="/README.md" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411073772731" ignored="false" />
+    <file path="/README.md" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412183043388" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/logs/bigml-binding.log" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412176745878" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/CSVReader.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/compare_predictions.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412175892352" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/RunCukesTest.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412182150042" ignored="false" />
+    <file path="/delete_all_dev_data.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412026661178" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/delete_all_dev_data.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412026664701" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/BatchPredictionsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/resources/binding.properties" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/README.md" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412185546623" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/Changes.md" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412185574359" ignored="false" />
+    <file path="/Changes.md" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412185572017" ignored="false" />
+    <file path="$PROJECT_DIR$/../../../internal/products/invtur/facileplan-excel-importer/src/main/java/com/rudder/internal/utils/migration/invtur2011/ExcelImporter.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412160723920" ignored="false" />
+    <file path="/ExcelImporter.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412160713284" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/ClustersStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="/ClustersStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412163028994" ignored="false" />
+    <file path="/binding.properties" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412165945838" ignored="false" />
+    <file path="/compare_predictions.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412170279795" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/CommonStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="/CommonStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412164501273" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_batch_prediction.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412180901043" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_evaluation.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412181323617" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_prediction.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412186673514" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_prediction_ensemble.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412187454954" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_prediction_multi_model.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412166469362" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_prediction_public_model.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="/create_prediction_public_model.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412166217730" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_prediction_shared_model.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412166477059" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/create_public_dataset.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412166480637" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/createPredictionFromLocalModel.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412166484039" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/createPredictions.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412166487046" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/rename_duplicated_names.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412166491593" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/PredictionsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412187166730" ignored="false" />
+    <file path="/PredictionsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412187159365" ignored="false" />
+    <file path="/LocalModelsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173896296" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/LocalModelsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173910237" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/iris-fields.json" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/Constants.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/AuthenticationException.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/MultiVote.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/InputDataParseException.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/ParametersException.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/InvalidModelException.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Centroid.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/utils/MockHostnameVerifier.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Dataset.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/resources/Evaluation.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/localmodel/Predicate.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/utils/MultipartUtility.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/EvaluationsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/ContextRepository.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/main/java/org/bigml/binding/utils/MockX509TrustManager.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/ComputeMultivotePredictionsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/SourcesStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/ModelsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/DatasetsStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/CSVReaderTest.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/EnsemblesStepdefs.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/java/org/bigml/binding/BeforeSteps.java" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/data/spam.csv" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/data/iris.csv" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/data/predictions_c.json" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/data/diabetes.csv" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412173002802" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/data/predictions_r.json" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412185762946" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/src/test/resources/compute_multivote_predictions.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412185737079" ignored="false" />
+    <file path="/create_batch_prediction.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412176478565" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/data/batch_predictions_e.csv" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412181002211" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/data/batch_predictions_c.csv" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412185988737" ignored="false" />
+    <file path="/create_prediction.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412181447622" ignored="false" />
+    <file path="/create_prediction_ensemble.feature" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412186920350" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -267,42 +336,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="29" column="91" selection-start="1966" selection-end="1972" vertical-scroll-proportion="0.79379565">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BigMLClient.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/BigMLClient.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="1247" column="35" selection-start="40793" selection-end="40793" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbstractResource.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/resources/AbstractResource.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="508" column="19" selection-start="19077" selection-end="19077" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LocalPredictiveModel.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/LocalPredictiveModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="250" column="35" selection-start="8970" selection-end="8970" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="tBigMLPredict_begin.javajet" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_begin.javajet">
           <provider selected="true" editor-type-id="text-editor">
@@ -339,6 +372,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="198" column="38" selection-start="9626" selection-end="9626" vertical-scroll-proportion="0.36793423">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="FindManager">
@@ -357,14 +399,14 @@
         <option value="$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/utils/Utils.java" />
         <option value="$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/resources/AbstractResource.java" />
         <option value="$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/BigMLClient.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/tBigMLPredict_main.javajet" />
         <option value="$PROJECT_DIR$/src/main/resources/tBigMLPredict_java.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/tBigMLPredict_messages.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/tBigMLPredict_begin.javajet" />
-        <option value="$PROJECT_DIR$/src/test/java/org/bigml/talend/predict/AppTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/org/bigml/talend/predict/BigMLPredictor.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/java/org/bigml/talend/predict/AppTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -386,33 +428,11 @@
           <option name="myItemId" value="tBigMLPredict" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Dependencies" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$DependenciesNode" />
-        </PATH_ELEMENT>
       </PATH>
       <PATH>
         <PATH_ELEMENT>
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tBigMLPredict" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="Plugins" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$PluginsNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tBigMLPredict" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
       </PATH>
     </treeState>
@@ -481,7 +501,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="options.lastSelected" value="net.stevechaloner.intellijad.config.ApplicationConfigComponent" />
+    <property name="options.lastSelected" value="MavenSettings" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bigml-java/pom.xml" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
@@ -712,7 +732,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1111" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -721,18 +741,17 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3964497" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39557266" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18676628" sideWeight="0.6035503" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19103523" sideWeight="0.6035503" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -743,6 +762,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="IntelliJad Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938856" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -815,9 +835,39 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/resources/Prediction.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_messages.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="0" selection-start="991" selection-end="991" vertical-scroll-proportion="0.015576324" />
+        <state line="17" column="43" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_java.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="78" selection-start="1850" selection-end="1850" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/bigml/talend/predict/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="39" selection-start="773" selection-end="773" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/bigml/talend/predict/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.m2/repository/org/slf4j/slf4j-log4j12/1.6.4/slf4j-log4j12-1.6.4.jar!/org/slf4j/impl/Log4jLoggerAdapter.class">
@@ -837,13 +887,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="157" column="29" selection-start="6557" selection-end="6557" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_main.javajet">
       <provider selected="true" editor-type-id="text-editor">
         <state line="49" column="0" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0">
@@ -858,44 +901,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_messages.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="43" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_begin.javajet">
       <provider selected="true" editor-type-id="text-editor">
         <state line="38" column="32" selection-start="1808" selection-end="1808" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/LocalPredictiveModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="250" column="35" selection-start="8970" selection-end="8970" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/resources/AbstractResource.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="508" column="19" selection-start="19077" selection-end="19077" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../bigml-java-original/src/main/java/org/bigml/binding/BigMLClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1247" column="35" selection-start="40793" selection-end="40793" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/org/bigml/talend/predict/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
@@ -909,7 +917,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="91" selection-start="1966" selection-end="1972" vertical-scroll-proportion="0.79379565">
+        <state line="29" column="91" selection-start="1966" selection-end="1972" vertical-scroll-proportion="0.79379565" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/bigml/talend/predict/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="77" column="26" selection-start="2462" selection-end="2462" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_messages.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="43" selection-start="649" selection-end="649" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="198" column="38" selection-start="9626" selection-end="9626" vertical-scroll-proportion="0.36793423">
           <folding />
         </state>
       </provider>

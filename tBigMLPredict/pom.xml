@@ -5,8 +5,10 @@
     <artifactId>tBigMLPredict</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
+
     <name>tBigMLPredict</name>
     <url>http://maven.apache.org</url>
+
     <properties>
         <skipTests>true</skipTests>
         <component-author>Javier Alperte</component-author>
@@ -16,6 +18,7 @@
         <componentsFolder>${user.home}/JETLXCmmty-r99271-V5.2.2/components</componentsFolder>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
     <repositories>
         <repository>
             <id>maven-s3-release-repo</id>
@@ -25,6 +28,10 @@
         <repository>
             <id>theclue-releases</id>
             <url>https://raw.github.com/theclue/theclue-maven-repo/master/releases</url>
+        </repository>
+        <repository>
+            <id>ossrh-snapshots</id>
+            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </repository>
     </repositories>
     <pluginRepositories>
@@ -40,6 +47,7 @@
             </snapshots>
         </pluginRepository>
     </pluginRepositories>
+
     <dependencies>
         <dependency>
             <groupId>junit</groupId>
@@ -55,29 +63,7 @@
         <dependency>
             <groupId>org.bigml</groupId>
             <artifactId>bigml-binding</artifactId>
-            <version>1.1</version>
-            <exclusions>
-                <!--<exclusion>-->
-                    <!--<groupId>commons-codec</groupId>-->
-                    <!--<artifactId>commons-codec</artifactId>-->
-                <!--</exclusion>-->
-                <!--<exclusion>-->
-                    <!--<groupId>commons-logging</groupId>-->
-                    <!--<artifactId>commons-logging</artifactId>-->
-                <!--</exclusion>-->
-                <!--<exclusion>-->
-                    <!--<groupId>org.springframework</groupId>-->
-                    <!--<artifactId>spring-core</artifactId>-->
-                <!--</exclusion>-->
-                <!--<exclusion>-->
-                    <!--<groupId>org.springframework</groupId>-->
-                    <!--<artifactId>spring-context</artifactId>-->
-                <!--</exclusion>-->
-                <!--<exclusion>-->
-                    <!--<groupId>junit</groupId>-->
-                    <!--<artifactId>junit</artifactId>-->
-                <!--</exclusion>-->
-            </exclusions>
+            <version>1.2-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>
@@ -203,6 +189,28 @@
                                     <replacefilter token="$COMPONENT-VERSION$" value="${project.version}"/>
                                     <replacefilter token="$COMPONENT-NAME$" value="${project.name}"/>
                                 </replace>
+                            </tasks>
+                        </configuration>
+                        <goals>
+                            <goal>run</goal>
+                        </goals>
+                    </execution>
+                    <execution>
+                        <phase>package</phase>
+                        <id>create-component-folder</id>
+                        <configuration>
+                            <tasks>
+                                <!-- copy component files to TOS custom components folder -->
+                                <mkdir dir="${project.build.directory}/${project.name}"/>
+                                <copy todir="${project.build.directory}/${project.name}" overwrite="true">
+                                    <fileset dir="${project.build.directory}">
+                                        <include name="${project.name}_java.xml"/>
+                                        <include name="${project.name}_icon32.png"/>
+                                        <include name="${project.name}_messages*.properties"/>
+                                        <include name="*.javajet"/>
+                                        <include name="*.jar"/>
+                                    </fileset>
+                                </copy>
                             </tasks>
                         </configuration>
                         <goals>
