@@ -4,10 +4,51 @@
     <groupId>org.bigml.talend</groupId>
     <artifactId>tBigMLPredict</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <name>tBigMLPredict</name>
-    <url>http://maven.apache.org</url>
+    <url>https://github.com/bigmlcom/bigml-talend-components/tree/master/tBigMLPredict</url>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+
+    <organization>
+        <name>BigML Inc.</name>
+        <url>https://bigml.com/</url>
+    </organization>
+
+    <developers>
+        <developer>
+            <id>xalperte</id>
+            <name>Javier Alperte</name>
+            <email>alperte@bigml.com</email>
+            <url>http://eric.propellors.net</url>
+            <organization>BigML Inc.</organization>
+            <organizationUrl>https://bigml.com/</organizationUrl>
+            <roles>
+                <role>architect</role>
+                <role>developer</role>
+            </roles>
+            <timezone>-America/Sao Paulo</timezone>
+            <properties>
+                <picUrl>http://tinyurl.com/kh29dm7</picUrl>
+            </properties>
+        </developer>
+    </developers>
+
+    <issueManagement>
+        <system>Github</system>
+        <url>https://github.com/bigmlcom/bigml-talend-components/issues</url>
+    </issueManagement>
+
+    <scm>
+        <url>https://github.com/bigmlcom/bigml-talend-components/tree/master/tBigMLPredict</url>
+    </scm>
 
     <properties>
         <skipTests>true</skipTests>
@@ -63,7 +104,7 @@
         <dependency>
             <groupId>org.bigml</groupId>
             <artifactId>bigml-binding</artifactId>
-            <version>1.2-SNAPSHOT</version>
+            <version>1.2</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>

@@ -49,7 +49,7 @@
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/misc.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/compiler.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411080959011" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/workspace.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411083070811" ignored="false" />
-    <file path="/Dummy.txt" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412034207550" ignored="false" />
+    <file path="/Dummy.txt" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412276895045" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__info_cukes_cucumber_java_1_0_14.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__net_sf_supercsv_super_csv_2_1_0.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
@@ -72,7 +72,7 @@
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1_3.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411080958658" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_springframework_spring_beans_3_1_2_RELEASE.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989653" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/dictionaries/xalperte.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082889029" ignored="false" />
-    <file path="$PROJECT_DIR$/../../bigml-java/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412176702635" ignored="false" />
+    <file path="$PROJECT_DIR$/../../bigml-java/pom.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1412275599777" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__info_cukes_cucumber_core_1_0_14.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
     <file path="$PROJECT_DIR$/../../bigml-java/.idea/libraries/Maven__org_apache_james_apache_mime4j_0_6.xml" changelist="155af11e-f878-4525-863c-d16be3012992" time="1411082989230" ignored="false" />
@@ -375,7 +375,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="198" column="38" selection-start="9626" selection-end="9626" vertical-scroll-proportion="0.36793423">
+            <state line="73" column="47" selection-start="2688" selection-end="2688" vertical-scroll-proportion="-3.2548819">
               <folding />
             </state>
           </provider>
@@ -424,16 +424,6 @@
           <option name="myItemId" value="" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
         </PATH_ELEMENT>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="tBigMLPredict" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
-        </PATH_ELEMENT>
-      </PATH>
-      <PATH>
-        <PATH_ELEMENT>
-          <option name="myItemId" value="" />
-          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
-        </PATH_ELEMENT>
       </PATH>
     </treeState>
   </component>
@@ -470,7 +460,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -492,27 +481,26 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="options.lastSelected" value="MavenSettings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bigml-java/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="MemberChooser.showClasses" value="true" />
-    <property name="FullScreen" value="false" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="dynamic.classpath" value="false" />
+    <property name="options.searchVisible" value="true" />
   </component>
   <component name="PublishConfig">
     <servers>
@@ -611,19 +599,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -650,6 +625,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -732,7 +720,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1920" height="1111" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -751,11 +739,11 @@
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19103523" sideWeight="0.6035503" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19316968" sideWeight="0.6035503" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22358592" sideWeight="0.6035503" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22358592" sideWeight="0.6035503" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -882,16 +870,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_end.javajet">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_main.javajet">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="49" column="0" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/tBigMLPredict_java.xml">
@@ -936,7 +920,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="198" column="38" selection-start="9626" selection-end="9626" vertical-scroll-proportion="0.36793423">
+        <state line="73" column="47" selection-start="2688" selection-end="2688" vertical-scroll-proportion="-3.2548819">
           <folding />
         </state>
       </provider>
