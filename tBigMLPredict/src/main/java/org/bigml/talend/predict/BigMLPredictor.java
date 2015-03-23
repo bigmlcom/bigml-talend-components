@@ -16,10 +16,7 @@ import java.math.BigDecimal;
 import java.util.*;
 
 /**
- * This class will be used in the templates to
- * User: xalperte
- * Date: 8/31/14
- * Time: 7:40 PM
+ * A Talend component to allow predictions using BigML.com
  */
 public class BigMLPredictor {
 
@@ -209,7 +206,7 @@ public class BigMLPredictor {
                 return predictionColumnType.getTypeString();
 
             default:
-                throw new IllegalArgumentException("Unsuported Taled Type: " + predictionColumnType.getTypeString());
+                throw new IllegalArgumentException("Unsupported Taled Type: " + predictionColumnType.getTypeString());
         }
     }
 
