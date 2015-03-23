@@ -54,4 +54,12 @@ You can set some parameters in command-line using the -D flag. Here's a list:
 * **useSnapshot** (default: true) to use or not snaphsot releases in all external dependencies
 * **componentsFolder** (default: $HOME$/talend_components) path to your installation TOS custom component folder   
 
+## External Dependencies
+
+* Talend Bridge Api, from Gabriele Baldassarre
+* Json Simple, from Yidong Fang
+
+## Greetings
+
+- Thanks to Gabriele Baldassarre and his article about [How to use Maven in Talend component development](http://gabrielebaldassarre.com/2012/11/05/how-to-use-maven-in-talend-component-development/), it helped us alot during the development of the component. There is little quality information about developing components in Talend out there, which is why initiatives such as this are really valuable. Thanks Grabriele!
 
