@@ -1,9 +1,17 @@
 tBigMLPredict
 =============
 
-In this project you find a Talend Open Studio component that you can use to make calls to the [predictions service of BigML.io](https://bigml.com/developers/predictions).
+In this project you find a Talend Open Studio component that you can use to make calls to the [predictions service of BigML.io](https://bigml.com/developers/predictions) using the [Java Bindings](https://github.com/bigmlcom/bigml-java).
 
 You can use it to easily make, once installed in TOS, remote and local predictions using predictive models defined in [BigML.com](https://bigml.com)
+
+## Supported Algorithms
+
+- Model. With local and remote predictions.
+- Ensemble. With local and remote predictions.
+- Logistic Regression. Only remote predictions are available.
+
+NOTE: The Java Bindings doesn't has yet support for local Logistic Regression.
 
 ## TOS-Configuration
 
